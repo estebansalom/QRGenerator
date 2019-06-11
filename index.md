@@ -8,7 +8,7 @@ Su antecesor, el código de barras (creado en los 50) solo es capas de almacenar
 
 Los nuevos códigos son utilizados en cada vez más utilidades y productos, como un pasaje de avión, codificar la información sobre webs, promociones, publicidad, organización de inventarios, entradas a eventos, mensajes, etc. Estos códigos 2D (de información horizontal y vertical) son los denominados: Maxicode, Datamatrix (Semacode), PD417 y el QR.
 
-Una variante de estos códigos 2D son los denominados “shotcode” o códigos de barras circulares, creado en la Universidad de Cambridge en 1999\. Estas secuencias circulares, de bloques blancos y negros, representan URL’s, como por ejemplo un sitio WAP con una promoción o un punto de venta de productos. Pueden leerse de igual forma por dispositivos que tengan integrados el lector de códigos correspondiente y se pueden crear en el sitio http://wwwshotcode.org.
+Una variante de estos códigos 2D son los denominados “shotcode” o códigos de barras circulares, creado en la Universidad de Cambridge en 1999\. Estas secuencias circulares, de bloques blancos y negros, representan URL’s, como por ejemplo un sitio WAP con una promoción o un punto de venta de productos. Pueden leerse de igual forma por dispositivos que tengan integrados el lector de códigos correspondiente y se pueden crear en el sitio http://www.shotcode.org.
 
 ### Características Generales y Aplicaciones
 
@@ -58,7 +58,7 @@ Capacidad máxima de datos del código QR
 
 <tr>
 
-<td>Miro código QR</td>
+<td>Micro código QR</td>
 
 <td>35 caracteres</td>
 
@@ -102,7 +102,7 @@ Capacidad de corrección de errores
 
 <tr>
 
-<td>Nivel M</td>
+<td>Nivel H</td>
 
 <td>30% de las claves se pueden restaurar</td>
 
